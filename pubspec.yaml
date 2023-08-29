@@ -1,6 +1,5 @@
 name: news_app_clean_architecture
 description: A new Flutter project.
-
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -25,12 +24,12 @@ dependencies:
 
   #service locator
   get_it: ^7.6.0
-  
+
   #dateFormat
   intl: ^0.18.1
 
   #Database
-  floor: any
+  floor: ^1.4.2
 
   #make request to api
   retrofit: ^3.0.1
